@@ -91,11 +91,11 @@ It would be great to have some circuits drawn on grid paper and on white paper. 
 - Graphit Pencil (Bleistift)
 - Thick and thin pencils allowed
 
-### 7. A drawing with your left hand is also appreciated
+### 7. General
 
-### 8. Try to make the used components somewhat equally distributed through the circuit or at least your submission
-
-### 9. Please do not use more than 5 components in parallel
+- A drawing with your left hand is appreciated
+- Try to make the used components somewhat equally distributed through the circuit or at least your submission
+- Please do not use more than 5 components in parallel
 
 ## Examples
 
