@@ -64,6 +64,7 @@ Current Source
 ![cu1](current.png)
 ![cu2](current2.png)
 
+For sources please additionally use an arrow to indicate the flow.
 
 
 ### 2. Wire Constraint
