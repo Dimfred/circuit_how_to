@@ -66,7 +66,6 @@ Current Source
 
 For sources please additionally use an arrow to indicate the flow.
 
-
 ### 2. Wire Constraint
 
 - Please use only horizontal and vertical wires (small angles are allowed)
@@ -96,9 +95,15 @@ It would be great to have some circuits drawn on grid paper and on white paper. 
 
 - A drawing with your left hand is appreciated
 - Try to make the used components somewhat equally distributed through the circuit or at least your submission
-- Please do not use more than 5 components in parallel
+- Please do not use more than 5 components in parallell
 
-## Examples
+## Examples with annotation
+
+
+![anex1](annotated_ex1.jpg)
+![anex2](annotated_ex2.jpg)
+
+## Examples without annotation
 
 ![ex1](ex1.png)
 ![ex2](ex2.png)
