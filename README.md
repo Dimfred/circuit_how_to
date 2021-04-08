@@ -23,22 +23,22 @@ dmitrij.vinokour@fau.de
 
 ### 1. Allowed Symbols (without the cursor)
 
-Resistor
+Resistor (Unit Ohm ("Greek Big Omega") see example below)
 
 ![r1](resistor.png)
 ![r2](resistor2.png)
 
-Inductor
+Inductor (Unit "H")
 
 ![i1](inductor2.png)
 ![i2](inductor.png)
 
-Capacitor
+Capacitor (Unit "F")
 
 ![c1](capacitor2.png)
 ![c2](capacitor.png)
 
-Diode
+Diode (No Unit)
 
 ![d1](diode5.png)
 ![d2](diode2.png)
@@ -46,20 +46,20 @@ Diode
 ![d4](diode3.png)
 ![d5](diode4.png)
 
-Ground
+Ground (No Unit)
 
 ![gr1](ground.png)
 ![gr2](ground3.png)
 ![gr3](ground4.png)
 ![gr4](ground2.png)
 
-Voltage Source
+Voltage Source (Unit "V")
 
 
 ![sr1](source2.png)
 ![sr2](source.png)
 
-Current Source
+Current Source (Unit "I")
 
 ![cu1](current.png)
 ![cu2](current2.png)
@@ -93,9 +93,18 @@ It would be great to have some circuits drawn on grid paper and on white paper. 
 
 ### 7. General
 
+- The drawn circuit does not need to make any sense
 - A drawing with your left hand is appreciated
 - Try to make the used components somewhat equally distributed through the circuit or at least your submission
 - Please do not use more than 5 components in parallell
+
+### 8. Allowed Subunits
+
+- nano (n)
+- micro (greek my)
+- milli (m)
+- kilo (k)
+- mega (M)
 
 ## Examples with annotation
 
