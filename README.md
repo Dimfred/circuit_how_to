@@ -8,6 +8,9 @@ The aim of my thesis is to convert those drawings into a digital format (LTSpice
 
 I will make the dataset public after my thesis. So not only are you helping me, but you are helping to contribute to the biggest publicly available dataset of hand-drawn electrical circuits.
 
+The one submitting the most circuits will receive a pack of ultra high quality chocolates.
+If that is not a good motivation I don't know what is :)
+
 ## Status Quo
 
 - 140 drawings
