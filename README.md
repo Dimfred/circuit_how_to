@@ -111,14 +111,8 @@ It would be great to have some circuits drawn on grid paper and on white paper. 
 
 ## Examples with annotation
 
+Those are small examples, feel free to make the circuits bigger.
 
 ![anex1](annotated_ex1.jpg)
 ![anex2](annotated_ex2.jpg)
 
-## Examples without annotation
-
-![ex1](ex1.png)
-![ex2](ex2.png)
-![ex3](ex3.png)
-![ex4](ex4.png)
-![ex5](ex5.png)
